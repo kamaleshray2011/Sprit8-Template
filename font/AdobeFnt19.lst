@@ -1,0 +1,276 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\package.json
+FileModTime:1478509932
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Bold.eot
+FileModTime:1478250642
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Bold.svg
+FileModTime:1478250642
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamRounded-Bold
+FamilyName:Gotham Rounded
+StyleName:Bold
+FullName:GothamRounded-Bold
+MenuName:Gotham Rounded Bold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:63320
+FileModTime:1478250642
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,GothamRounded-Bold
+NameArray:0,Win,1,Gotham Rounded Bold
+NameArray:0,Win,16,Gotham Rounded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Bold.woff
+FileModTime:1478250642
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Bold.woff2
+FileModTime:1478250642
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Book.eot
+FileModTime:1478248168
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Book.svg
+FileModTime:1478248168
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamRounded-Book
+FamilyName:Gotham Rounded
+StyleName:Book
+FullName:GothamRounded-Book
+MenuName:Gotham Rounded Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Book.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64196
+FileModTime:1478248168
+WeightClass:325
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,GothamRounded-Book
+NameArray:0,Win,1,Gotham Rounded Book
+NameArray:0,Win,16,Gotham Rounded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Book.woff
+FileModTime:1478248168
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Book.woff2
+FileModTime:1478248168
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Light.eot
+FileModTime:1478250440
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Light.svg
+FileModTime:1478250440
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamRounded-Light
+FamilyName:Gotham Rounded
+StyleName:Light
+FullName:GothamRounded-Light
+MenuName:Gotham Rounded Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:63404
+FileModTime:1478250440
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,GothamRounded-Light
+NameArray:0,Win,1,Gotham Rounded Light
+NameArray:0,Win,16,Gotham Rounded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Light.woff
+FileModTime:1478250440
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Light.woff2
+FileModTime:1478250440
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Medium.eot
+FileModTime:1478248452
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Medium.svg
+FileModTime:1478248452
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamRounded-Medium
+FamilyName:Gotham Rounded
+StyleName:Medium
+FullName:GothamRounded-Medium
+MenuName:Gotham Rounded Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64428
+FileModTime:1478248452
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,GothamRounded-Medium
+NameArray:0,Win,1,Gotham Rounded Medium
+NameArray:0,Win,16,Gotham Rounded
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Medium.woff
+FileModTime:1478248452
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\GothamRounded-Medium.woff2
+FileModTime:1478248452
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\VarelaRound.eot
+FileModTime:1478267050
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\VarelaRound.svg
+FileModTime:1478267050
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:VarelaRound
+FamilyName:Varela Round
+StyleName:Regular
+FullName:VarelaRound
+MenuName:Varela Round
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\VarelaRound.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:51692
+FileModTime:1478267050
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,VarelaRound
+NameArray:0,Win,1,Varela Round
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\VarelaRound.woff
+FileModTime:1478267050
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\fonts\VarelaRound.woff2
+FileModTime:1478267050
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\Web Development Practice\Dohut\Font\package\css\gotham-rounded.css
+FileModTime:1478509690
+%EndFont
+

@@ -1,0 +1,206 @@
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+
+@media screen and (max-width: 1440px) {}
+
+@media screen and (max-width: 1024px) {
+    .our-team .slider-area .single-slider {
+        width: 230px;
+        padding: 0 20px;
+    }
+    .our-service .single-slider {
+        width: 230px;
+    }
+    .our-team .slider-area .single-slider .single-photo {
+        padding-left: 35px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .our-work .filter-photo {
+        margin-bottom: 30px;
+    }
+}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media screen and (max-width: 800px) {
+    .our-service .single-slider:last-child {
+        padding-top: 50px;
+    }
+    .our-team .slider-area .single-slider {
+        margin-left: 50px;
+    }
+    .about-us-content p {
+        padding-right: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .our-work .float-left {
+        margin-left: 20px;
+    }
+    .our-team .team-title h1 {
+        padding: 0 30px;
+        font-size: 40px;
+    }
+    .our-service .single-slider {
+        margin-top: 50px;
+    }
+    .our-service.our-team .team-title {
+        padding-bottom: 30px;
+    }
+    li.nav-item.active:after {
+        width: 15%;
+    }
+    .welcome-content {
+        padding: 100px 0;
+    }
+    .welcome-icon {
+        padding: 50px 0;
+    }
+    .single-slider {
+        margin-left: 20px;
+    }
+    element.style {
+        width: 227px;
+        margin-right: 40px;
+    }
+    .about-us-content p {
+        padding-right: 19px;
+    }
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+
+@media screen and (max-width: 600px) {
+    .our-service.our-team .single-slider {
+        padding-left: px;
+        padding-top: 15px;
+    }
+    .single-slider {
+        margin-left: 100px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .welcome-content {
+        padding-top: 100px;
+        padding-bottom: 0;
+    }
+    .welcome-content h1 {
+        font-size: 40px;
+    }
+    .our-work p.service-content {
+        margin-top: 30px;
+        padding: 50px;
+    }
+    .about-us-area .about-us-content {
+        padding-top: 0;
+    }
+    .about-us-area .mac-photo {
+        padding-top: 55px;
+    }
+    .single-slider {
+        margin-left: 63px;
+        margin-top: 30px;
+    }
+    .our-team .team-title {
+        padding: 55px 0;
+    }
+    .our-team .slider-area .single-slider {
+        margin-left: 75px;
+    }
+    .our-service.our-team .float-right {
+        padding-left: 0;
+        padding-top: 15px;
+    }
+    .clients-testimonial p {
+        padding: 10px;
+    }
+    .clients-testimonial .team-title {
+        padding: 5px 0 0 30px;
+    }
+    .float-left {
+        float: none!important;
+        text-align: center;
+    }
+    .float-right {
+        float: none!important;
+        text-align: center;
+        padding-left: 55px;
+    }
+    .float-left p {
+        font-size: 11px;
+    }
+    li.nav-item.active:after {
+        width: 15%;
+    }
+    .about-us-content h2.title {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .our-team .team-title h1 {
+        font-size: 32px;
+        margin-left: 26px;
+    }
+    .about-us-content h2.title {
+        font-size: 34px;
+    }
+    .float-right {
+        float: none!important;
+        text-align: center;
+        padding-left: 35px;
+    }
+    .our-team .team-title h1 {
+        margin-left: 0;
+    }
+    .our-team .slider-area .single-slider {
+        margin-left: 55px;
+    }
+    .our-service .single-slider {
+        margin-left: 40px;
+    }
+    .clients-testimonial .team-title {
+        padding: 1px 0 0 30px;
+    }
+    .clients-testimonial p {
+        padding: 10px 30px 10px 15px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .our-service .single-slider {
+        margin-left: 35px;
+    }
+    .our-team .slider-area .single-slider {
+        margin-left: 50px;
+    }
+    .clients-testimonial .team-title {
+        padding: 20px 18px 0 30px;
+    }
+    .our-team .team-title h1 {
+        margin-left: 0;
+    }
+    .about-us-content h2.title {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .float-right {
+        float: none!important;
+        text-align: center;
+        padding-left: 0;
+    }
+    .our-service .single-slider {
+        margin-left: 8px;
+    }
+    .our-team .slider-area .single-slider {
+        margin-left: 25px;
+    }
+}
